@@ -1,0 +1,8 @@
+{
+  "name": "adminjs-nest-tutorial",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "repository": "https://github.com/krzysztofstudniarek/adminjs-nest-example.git",
+  "author": "Krzysztof Studniarek",
+  "license": "MIT"
+}
